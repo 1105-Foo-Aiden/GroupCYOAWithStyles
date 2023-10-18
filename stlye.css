@@ -1,12 +1,17 @@
 p
 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
+    font-size: large;
 }
 .mainPageBackground
 {
     background-color: black;
 }
 h1{
-    color:rgb(28, 5, 240);
+    color: red;
+}
+.centerMe
+{
+    text-align: center;
 }
