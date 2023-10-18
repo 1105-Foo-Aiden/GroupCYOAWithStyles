@@ -1,8 +1,12 @@
 p
 {
-    font-family: a Theme for 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color: white;
 }
+.mainPageBackground
+{
+    background-color: black;
+}
 h1{
-    color:aliceblue;
+    color:rgb(28, 5, 240);
 }
