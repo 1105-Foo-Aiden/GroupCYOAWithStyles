@@ -15,3 +15,10 @@ h1{
 {
     text-align: center;
 }
+.spaceLinks
+{
+    color: red;
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
