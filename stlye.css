@@ -3,17 +3,17 @@ p
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
     font-size: large;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 body
 {
     background-color: black;
 }
-h1{
-    color: red;
-}
-.centerMe
+h1
 {
-    text-align: center;
+    color: red;
 }
 a
 {
