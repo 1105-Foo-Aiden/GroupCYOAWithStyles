@@ -60,7 +60,18 @@ a
     background-image: url(./assets/CabinCabinetPicture.jpg);
 }
 
-
+.pg15BG{
+    background-image: url(./assets/deadEnd.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pg14BG{
+    background-image: url(./assets/bloodTrail.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .pg13BG
 {
