@@ -49,3 +49,53 @@ a
 .pg3BG {
     background-image: url(./assets/CabinCabinetPicture.jpg);
 }
+
+.pg13BG
+{
+    background-image: url(./assets/CultRitualEnding.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pg13BG p
+{
+    color: white;
+}
+.pg9BG
+{
+    background-image: url(./assets/lockedDoor.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pg9BG p
+{
+    color: whitesmoke;
+    
+}
+.pg4BG
+{
+    background-image: url(./assets/Woods.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pg8BG
+{
+
+    background-image: url(./assets/Woods.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pg8BG p
+{
+    color: white;
+}
+.TitleBG
+{
+    background-image: url(./assets/TitleScreen.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
