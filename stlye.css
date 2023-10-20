@@ -33,6 +33,12 @@ a
     margin-right: 500px;
 }
 
+.BG{
+    width: 100%;
+    height: 100%;
+}
+
+
 .page2BG {
     background-image: url(./assets/TheCampfire.jpg);
     
