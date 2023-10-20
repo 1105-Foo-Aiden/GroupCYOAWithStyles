@@ -23,3 +23,12 @@ a
     justify-content: space-around;
     text-decoration: none;
 }
+.darkRedColoring
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(180, 0, 0);
+    font-size: large;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
