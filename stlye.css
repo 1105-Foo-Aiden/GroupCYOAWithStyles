@@ -32,3 +32,12 @@ a
     margin-left: 500px;
     margin-right: 500px;
 }
+
+.page2BG {
+    background-image: url(./assets/TheCampfire.jpg);
+    
+}
+
+.pg3BG {
+    background-image: url(./assets/CabinCabinetPicture.jpg);
+}
