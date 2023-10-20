@@ -170,3 +170,10 @@ a
     background-repeat: no-repeat;
     background-size: cover;
 }
+.mainPageBG
+{
+    background-image: url(./assets/Cabin.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
