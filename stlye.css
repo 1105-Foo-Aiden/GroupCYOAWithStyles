@@ -41,7 +41,9 @@ a
 
 .page2BG {
     background-image: url(./assets/TheCampfire.jpg);
-    
+    background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
 }
 
 .pg3BG {
